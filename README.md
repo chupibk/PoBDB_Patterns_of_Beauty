@@ -4,6 +4,7 @@ A dataset toward reasoning patterns of beauty in image data and construction of 
 The PoB Dataset encodes the compositional patterns based on our defined 15 patterns in images. The PoB includes two datasets: Painting (4,959 images - a subset of the AVA dataset) and Photograph (10,000 images).
 
 The folder includes 4 subfolders:
+	
 	- ./images: images. Please download from here: 
 		+ Paintings: https://drive.google.com/open?id=13sIwsA7sUCabMwKiKB3tVr7t2FqfvDJG
 		+ Photographs: https://drive.google.com/open?id=1kS4yyFM91rOp2ucnTJA30sC8nS8HNOmB
