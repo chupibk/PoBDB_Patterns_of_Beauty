@@ -6,7 +6,7 @@ The PoB Dataset encodes the compositional patterns based on our defined 15 patte
 The folder includes 4 subfolders:
 	
 	- ./images: images. Please download from here: 
-		+ Paintings: https://drive.google.com/open?id=1ezMMNV43Mq4oykbXAdltRUH6TP4oxk7d
+		+ Paintings: https://drive.google.com/open?id=11wPfNtqJkenH401AqE38rD8OQMC1tcFa
 		+ Photographs: https://drive.google.com/open?id=1sxFQz1Pb5T6lL_sZyAHmQzJmrlMlbZ1n
 	- ./Meier-seashore results: results of 25 participants for Meier-seashore art judgment test.
 	- ./patterns_annotated_results: annotated results of two annotators ("junior" and "senior") for each Painting and Photograph datasets.
