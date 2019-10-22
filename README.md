@@ -1,3 +1,29 @@
+# Conference paper
+
+https://www.researchgate.net/publication/328374750_PoB_Toward_Reasoning_Patterns_of_Beauty_in_Image_Data
+
+Citation:
+```
+@inproceedings{Nguyen:2018:PTR:3240508.3240711,
+ author = {Nguyen, Diep Thi Ngoc and Nakayama, Hideki and Okazaki, Naoaki and Sakaeda, Tatsuya},
+ title = {PoB: Toward Reasoning Patterns of Beauty in Image Data},
+ booktitle = {Proceedings of the 26th ACM International Conference on Multimedia},
+ series = {MM '18},
+ year = {2018},
+ isbn = {978-1-4503-5665-7},
+ location = {Seoul, Republic of Korea},
+ pages = {1786--1793},
+ numpages = {8},
+ url = {http://doi.acm.org/10.1145/3240508.3240711},
+ doi = {10.1145/3240508.3240711},
+ acmid = {3240711},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {aesthetic assessment, armature pattern, composition, image dataset, visual grammar},
+} 
+
+```
+
 # PoB Dataset
 A dataset toward reasoning patterns of beauty in image data and construction of visual grammar.
 
